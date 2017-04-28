@@ -45,7 +45,3 @@ Or install it with gem:
 
     $ gem install hiera-http-eyaml
 
-## License
-
-The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
