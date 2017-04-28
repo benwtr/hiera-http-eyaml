@@ -45,3 +45,14 @@ Or install it with gem:
 
     $ gem install hiera-http-eyaml
 
+
+## Authors
+
+* Author of the original [hiera-http](https://github.com/crayfishx/hiera-http) backend which this is project forked from
+  * Craig Dunn <craig@craigdunn.org>
+  * @crayfishX
+  * IRC (freenode) crayfishx
+  * http://www.craigdunn.org
+* eyaml glue was added by @benwtr
+
+
